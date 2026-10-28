@@ -1,0 +1,6 @@
+{
+  "name": "FIELD REPORT - 写真付き現地報告アプリ",
+  "description": "スマートフォンで撮影した写真とともに、訪問先・訪問日・報告内容を記録・管理できる現地報告アプリ。Neon PostgreSQLとHStorageストレージ連携に対応。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
